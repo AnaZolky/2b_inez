@@ -1,1 +1,29 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner:wght@400..700&display=swap');
+body {
+        font-family:Edu VIC WA NT Beginner;
+        background-color:Turquoise;
+        font-size:200;
+        text-align:center;
+        text-shadow:2px 2px 2px black;
+      }
+div {
+        background-image:url(Xiao.jpeg);
+        background-size:55px;
+        background-color:Teal;
+        width:300px;
+        margin:auto;
+        text-shadow:2px 2px 2px black;
+        color:white;
+        box-shadow:5px 5px 5px black;
+    }
+}
+#item 1 {
+          border:5px dotted LightSeaGreen;
+}
+#item 2 {
+          border: 5px dotted LightSeaGreen;
+}
+img {
+      width:500px;
+}
+        
